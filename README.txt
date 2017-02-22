@@ -1,0 +1,1 @@
+It is a standalone simpleSSD simulator.usage: ./new-ssdsim-pam mem/sample_cfg/rev_ch16.cfg
